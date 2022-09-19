@@ -1,0 +1,9 @@
+**Database Name: secyear**
+
+**Developed by Team Leviathan**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
