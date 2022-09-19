@@ -109,7 +109,7 @@
 </body>
 
 <footer>
-        <p>&copy; <?php echo date("Y"); ?>: Developed By Naseeb Bajracharya</p>
+        <p>&copy; <?php echo date("Y"); ?>: Developed By Team Leviathan</p>
     </footer>
 	
 	<style>
